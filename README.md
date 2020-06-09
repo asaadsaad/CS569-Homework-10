@@ -13,4 +13,4 @@ Add a new `user` entity to Homework 12:
 Create two public routes: `/signup`, `/signin` both routes will generate a new token and send it as JSON in the response body.
 Protect all other routes with a middleware that checks the token validity in the header of all incoming requests.
 ### Research
-Do your own research and explain what is Cross-Site Request Forgery (CSRF) attack? How it happens? and How can we protect a web application from being vulnarable to CSRF attacks?
+Do your own research and explain what is a Cross-Site Request Forgery (CSRF) attack? How it happens? and How can we protect a web application from being vulnarable to CSRF attacks?
