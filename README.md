@@ -26,6 +26,6 @@ Following up on yesterday's homework, and having a schema with the following str
 ### Security
 Do your research and explain what is a XSS scripting attack and find answers to the following questions:
 * What is a Cross-Site Request Forgery (CSRF) attack? 
-* Wgat is Cross-Site Scripting (XSS) attack? 
+* What is Cross-Site Scripting (XSS) attack? 
 * How can we protect a web application from being vulnarable to CSRF and XSS attacks?
 * Explain how Angular protects your application from CSRF and XSS attacks?
