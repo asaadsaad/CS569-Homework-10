@@ -24,4 +24,8 @@ Following up on yesterday's homework, and having a schema with the following str
   * Parsing pagination headers in the response and passing it to the components if exist.
   
 ### Research
-Do your research and explain what is a XSS scripting attack and what is a Cross-Site Request Forgery (CSRF) attack? How it happens? and How can we protect a web application from being vulnarable to CSRF attacks?
+Do your research and explain what is a XSS scripting attack and find answers to the following questions:
+* What is a Cross-Site Request Forgery (CSRF) attack? 
+* How does CSRF attacks happen? 
+* How can we protect a web application from being vulnarable to CSRF attacks?
+* Explain how Angular protects your application from CSRF attacks?
